@@ -1,0 +1,26 @@
+{
+  "name": "Flux_Boilerplate",
+  "description": "A boiler for Facebook's application architecture, Flux.",
+  "version": "0.0.0",
+  "license": "BSD-3-Clause",
+  "people": "Aaron Block <ajblock@gmail.com> (http://blockaj.me/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blockaj/flux-boilerplate.git"
+  },
+  "dependencies": {
+    "babelify": "^7.0.2",
+    "browserify": "^12.0.1",
+    "es6-promise": "^3.0.2",
+    "flux": "^2.1.1",
+    "gulp": "^3.9.0",
+    "gulp-less": "^3.0.3",
+    "gulp-watch": "^4.3.5",
+    "keymirror": "^0.1.1",
+    "object-assign": "^4.0.1",
+    "react": "^0.14.1",
+    "react-dom": "^0.14.1",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
